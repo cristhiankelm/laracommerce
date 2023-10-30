@@ -19,8 +19,25 @@ class DatabaseSeeder extends Seeder
     {
         $this->call([
             UsersTableSeeder::class,
-            // SettingTableSeeder::class,
-            // CouponSeeder::class
+
+            // Products
+            BrandsTableSeeder::class,
+            BannersTableSeeder::class,
+            CategoriesTableSeeder::class,
+
+            ProductsTableSeeder::class,
+            ShippingsTableSeeder::class,
+            OrdersTableSeeder::class,
+            CartsTableSeeder::class,
+
+            // Blog
+            PostCategoriesTableSeeder::class,
+            PostTagsTableSeeder::class,
+            PostsTableSeeder::class,
+//            PostCommentsTableSeeder::class,
+
+            SettingsTableSeeder::class,
+            NotificationsTableSeeder::class,
         ]);
 
     }

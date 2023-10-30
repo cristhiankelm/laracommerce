@@ -4,6 +4,7 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
 
 class CategoriesTableSeeder extends Seeder
 {
@@ -23,6 +24,7 @@ class CategoriesTableSeeder extends Seeder
                 'parent_id' => NULL,
                 'added_by' => NULL,
                 'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 2,
@@ -34,6 +36,7 @@ class CategoriesTableSeeder extends Seeder
                 'parent_id' => NULL,
                 'added_by' => NULL,
                 'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 3,
@@ -45,6 +48,7 @@ class CategoriesTableSeeder extends Seeder
                 'parent_id' => NULL,
                 'added_by' => NULL,
                 'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 4,
@@ -56,6 +60,7 @@ class CategoriesTableSeeder extends Seeder
                 'parent_id' => 1,
                 'added_by' => NULL,
                 'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 5,
@@ -67,6 +72,7 @@ class CategoriesTableSeeder extends Seeder
                 'parent_id' => 1,
                 'added_by' => NULL,
                 'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 6,
@@ -78,6 +84,7 @@ class CategoriesTableSeeder extends Seeder
                 'parent_id' => 1,
                 'added_by' => NULL,
                 'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 7,
@@ -89,6 +96,7 @@ class CategoriesTableSeeder extends Seeder
                 'parent_id' => 1,
                 'added_by' => NULL,
                 'status' => 'active',
+                'created_at' => now(),
             ]
         ]);
     }

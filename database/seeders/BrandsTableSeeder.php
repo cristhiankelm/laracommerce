@@ -18,31 +18,36 @@ class BrandsTableSeeder extends Seeder
                 'id' => 1,
                 'title' => 'Adidas',
                 'slug' => 'adidas',
-                'status' => 'active'
+                'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 2,
                 'title' => 'Nike',
                 'slug' => 'nike',
-                'status' => 'active'
+                'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 3,
                 'title' => 'Kappa',
                 'slug' => 'kappa',
-                'status' => 'active'
+                'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 4,
                 'title' => 'Prada',
                 'slug' => 'prada',
-                'status' => 'active'
+                'status' => 'active',
+                'created_at' => now(),
             ],
             [
                 'id' => 5,
                 'title' => 'Brand',
                 'slug' => 'brand',
-                'status' => 'active'
+                'status' => 'active',
+                'created_at' => now(),
             ],
         ]);
     }
