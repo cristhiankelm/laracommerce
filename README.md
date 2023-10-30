@@ -1,123 +1,57 @@
-## Are you looking for a production-ready ecommerce & HRMS app?
+# 🌐 Presentación de eCommerce para el Mercado Paraguayo
 
-If you're looking for a production-ready ecommerce & HRMS app, check out [KetraMart](https://ketramart.com/) & [Ketra HRMS](https://hrms.ketramart.com/).
+Bienvenidos a nuestro innovador eCommerce, especialmente diseñado para satisfacer las necesidades y preferencias del vibrante mercado paraguayo. Con una interfaz intuitiva y una amplia variedad de características avanzadas, nuestra plataforma promete una experiencia de compra en línea sin precedentes, rica en eficiencia y comodidad.
 
+## 🚀 Características
 
-## Complete E-commerce website in  Laravel 10
+### 📱 PWA (Aplicación Web Progresiva)
+Experimente una aplicación rápida y confiable que ofrece una experiencia de usuario excepcionalmente suave y accesible desde cualquier dispositivo o navegador.
 
+### 🖥 ====== FRONT-END ======
 
-#### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
+- **Diseño Responsivo**: Adapta automáticamente su diseño a diferentes tamaños de pantalla y orientaciones de dispositivos.
+- **Carrito de Compras, Lista de Deseos, Reseñas de Productos**: Funcionalidades esenciales para una cómoda experiencia de compra.
+- **Cupones & Descuentos**: Ofertas especiales para hacer que su experiencia de compra sea aún más gratificante.
+- **Atributos de Productos**: Incluyendo precio de costo, precio de promoción, stock, tamaño, y más.
+- **Blog**: Organizado por categoría, etiquetas, contenido, y página web.
+- **Módulo/Extensión**: Envío, pago, descuentos y más.
+- **Gestor de Subidas**: Administre banners, imágenes y más.
+- **Soporte SEO**: URLs amigables para el cliente.
+- **Gestión de Boletines**: Manténgase actualizado con las últimas noticias y ofertas.
+- **Formularios de Contacto**: Con notificaciones en tiempo real (Laravel Pusher).
+- **Productos Relacionados, Recomendaciones para usted en nuestras categorías**.
+- **Formulario de Búsqueda de Productos**.
+- **Implementación de Laravel Socialite**: Inicio de sesión de clientes a través de Facebook, Google y Twitter.
+- **Compartir y Seguir Productos**: Desde diferentes plataformas sociales.
+- **Integración de Pagos (Paypal)**.
+- **Sistema de Seguimiento de Pedidos**.
+- **Sistema de Comentarios Multi-nivel** y muchos más...
 
-#### Demo video :
-https://youtu.be/c5a_wrvJSJo
+### 🔧 ====== ADMIN ======
 
-#### Full tutorial :
-https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
+- **Roles y Permisos de Admin**.
+- **Gestión de Productos**.
+- **Gestión de Medios** usando el gestor de archivos unisharp laravel.
+- **Gestión de Banners**.
+- **Gestión de Pedidos**.
+- **Gestión de Categorías**.
+- **Gestión de Marcas**.
+- **Gestión de Envíos**.
+- **Gestión de Reseñas**.
+- **Gestor de Blogs, Categorías & Etiquetas**.
+- **Gestión de Usuarios**.
+- **Gestión de Cupones**.
+- **Configuración del Sistema**: Ajustes de email, información de la tienda, estado de mantenimiento, y más.
+- **Gráficos de Líneas y de Sectores**.
+- **Generar pedidos en formato PDF**.
+- **Mensajes y Notificaciones en Tiempo Real**.
+- **Configuración de Perfil** y muchos más...
 
-### Features :
-- ##### PWA (progressive web app)
-# ====== FRONT-END =======
+### 🛍 ====== PANEL DE USUARIO ======
 
-- Responsive Layout
-- Shopping Cart, Wishlist, Product Reviews
-- Coupons & Discounts
-- Product attributes: cost price, promotion price, stock, size...
-- Blog: category, tag, content, web page 
-- Module/Extension: Shipping, payment, discount, ...
-- Upload manager: banner, images,..
-- SEO support: customer URL b
-- Newsletter management
-- Contact forms with the real-time notification (Laravel Pusher)
-- Related Products, Recommendations for you in our categories
-- A Product search form
-- Laravel Socialite implement(Facebook, Google & twitter) & Customer login
-- Product Share and follow from different social platform...
-- Payment integration(Paypal)
-- Order Tracking system
-- Multi-level comment system
-many more......
+- **Gestión de Pedidos**.
+- **Gestión de Reseñas**.
+- **Gestión de Comentarios**.
+- **Configuración de Perfil**.
 
-## ======= ADMIN =======
-
-- Admin roles, permission
-- Product manager
-- Media manager using unisharp laravel file manager
-- Banner manager
-- Order management
-- Category management
-- Brand management
-- Shipping Management
-- Review Management
-- Blog, Category & Tag manager
-- User Management
-- Coupon Management
-- System config: email setting, info shop, maintain status,...
-- Line Chart & Pie chart ...
-- Generate order in pdf form...
-- Real time message & notification
-- Profile Settings
-Many more....
-
-
-## ======= USER DASHBOARD =======
-
-
-- Order management
-- Review Management
-- Comment Management
-- Profile Settings
-
-### Set up :
-
-1. Clone the repo and cd into it
-2. In your terminal ```composer install```
-3. Rename or copy ```.env.example``` file to ``.env``
-4. php artisan key:generate
-5. Set your database credentials in your ```.env``` file
-6. Set your Braintree credentials in your ```.env``` file if you want to use PayPal
-7. Import db file(```database/e-shop.sql```) into your database (```mysql,sql```)
-8. ```npm install```
-9. ```npm run watch```
-10. run command[laravel file manager]:-  ```php artisan storage:link```
-11. Edit ```.env``` file :- remove APP_URL
-10. ```php artisan serve``` or use virtual host
-11. Visit ```localhost:8000``` in your browser
-12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
-
-<p style="text-align:center">Thank You so much for your time !!!</p>
-
-
-### Screenshots :
-![screencapture-e-shop-loc-admin-2020-08-15-15_47_37](https://user-images.githubusercontent.com/29488275/90719413-13b82200-e2d4-11ea-8ca0-f0e5551c4c9d.png)
-
-![screencapture-e-shop-loc-admin-category-2020-08-14-19_45_55](https://user-images.githubusercontent.com/29488275/90719470-3813fe80-e2d4-11ea-8f63-e6001855a945.png)
-
-![screencapture-e-shop-loc-admin-product-2020-08-14-19_44_49](https://user-images.githubusercontent.com/29488275/90719534-61348f00-e2d4-11ea-8a81-409daee0ad94.png)
-
-![screencapture-e-shop-loc-user-order-show-1-2020-08-14-18_57_06](https://user-images.githubusercontent.com/29488275/90719557-71e50500-e2d4-11ea-97cf-befb1d525643.png)
-
-![screencapture-e-shop-loc-user-profile-2020-08-14-18_58_06](https://user-images.githubusercontent.com/29488275/90719563-7a3d4000-e2d4-11ea-9e6a-56caac13b146.png)
-
-![screencapture-e-shop-loc-admin-post-2020-08-14-16_00_07](https://user-images.githubusercontent.com/29488275/90719572-81644e00-e2d4-11ea-9fe5-3325ab427f88.png)
-
-![screencapture-e-shop-loc-2020-08-14-18_19_46](https://user-images.githubusercontent.com/29488275/90719631-a1940d00-e2d4-11ea-89a3-eb36960d687d.png)
-
-![screencapture-e-shop-loc-blog-2020-08-14-18_36_21](https://user-images.githubusercontent.com/29488275/90719648-a8228480-e2d4-11ea-9c57-5ed7aef50e26.png)
-
-![screencapture-e-shop-loc-blog-detail-where-can-i-get-some-2020-08-14-18_43_01](https://user-images.githubusercontent.com/29488275/90719658-ace73880-e2d4-11ea-9cb2-13f2b3b0c4d2.png)
-
-![screencapture-e-shop-loc-product-track-2020-08-14-18_51_07](https://user-images.githubusercontent.com/29488275/90719682-bbcdeb00-e2d4-11ea-8e4e-7d6bfab1c421.png)
-
-
- ## Author Contact
-  Contact me with any questions!<br>
-
-  Email: Prajwal.iar@gmail.com
-  Whatsapp: +977-9818441226
-
-  ## License
-  This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
-<hr>
-  Copyright © 2023 [Prajwal R.](https://raiprajwal.com/)
-  
-<p style="text-align:center">Thank You so much for your time !!!</p>
+Estamos emocionados de ofrecerle una plataforma robusta y completa, lista para llevar su experiencia de compra en línea al siguiente nivel en el mercado paraguayo. ¡Explora, compra y disfruta! 🌟
