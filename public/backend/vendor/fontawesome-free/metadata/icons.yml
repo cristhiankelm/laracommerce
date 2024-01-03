@@ -1,6 +1,6 @@
 500px:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: 500px
   search:
@@ -70,7 +70,7 @@ ad:
   voted: false
 address-book:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.0.3
   label: Address Book
@@ -88,7 +88,7 @@ address-book:
   voted: false
 address-card:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.0.3
   label: Address Card
@@ -107,7 +107,7 @@ address-card:
   voted: false
 adjust:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
     - 5.11.0
@@ -124,7 +124,7 @@ adjust:
   voted: false
 adn:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: App.net
   search:
@@ -206,7 +206,7 @@ algolia:
   voted: false
 align-center:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
   label: align-center
@@ -222,7 +222,7 @@ align-center:
   voted: false
 align-justify:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
   label: align-justify
@@ -237,7 +237,7 @@ align-justify:
   voted: false
 align-left:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
   label: align-left
@@ -252,7 +252,7 @@ align-left:
   voted: false
 align-right:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
   label: align-right
@@ -294,7 +294,7 @@ allergies:
   voted: false
 amazon:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Amazon
   search:
@@ -316,7 +316,7 @@ amazon-pay:
   voted: false
 ambulance:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.0.7
   label: ambulance
@@ -336,7 +336,7 @@ ambulance:
   voted: false
 american-sign-language-interpreting:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: American Sign Language Interpreting
   search:
@@ -363,7 +363,7 @@ amilia:
   voted: false
 anchor:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.11.0
   label: Anchor
@@ -383,7 +383,7 @@ anchor:
   voted: false
 android:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.12.0
   label: Android
@@ -396,7 +396,7 @@ android:
   voted: false
 angellist:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: AngelList
   search:
@@ -407,7 +407,7 @@ angellist:
   voted: false
 angle-double-down:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Angle Double Down
   search:
@@ -422,7 +422,7 @@ angle-double-down:
   voted: false
 angle-double-left:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Angle Double Left
   search:
@@ -439,7 +439,7 @@ angle-double-left:
   voted: false
 angle-double-right:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Angle Double Right
   search:
@@ -457,7 +457,7 @@ angle-double-right:
   voted: false
 angle-double-up:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Angle Double Up
   search:
@@ -472,7 +472,7 @@ angle-double-up:
   voted: false
 angle-down:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: angle-down
   search:
@@ -487,7 +487,7 @@ angle-down:
   voted: false
 angle-left:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.11.0
   label: angle-left
@@ -504,7 +504,7 @@ angle-left:
   voted: false
 angle-right:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.11.0
   label: angle-right
@@ -521,7 +521,7 @@ angle-right:
   voted: false
 angle-up:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: angle-up
   search:
@@ -622,7 +622,7 @@ apper:
   voted: false
 apple:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.0.7
     - 5.8.0
@@ -668,7 +668,7 @@ apple-pay:
   voted: true
 archive:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.0.9
   label: Archive
@@ -752,7 +752,7 @@ arrow-alt-circle-up:
   voted: false
 arrow-circle-down:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Arrow Circle Down
   search:
@@ -764,7 +764,7 @@ arrow-circle-down:
   voted: false
 arrow-circle-left:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Arrow Circle Left
   search:
@@ -777,7 +777,7 @@ arrow-circle-left:
   voted: false
 arrow-circle-right:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Arrow Circle Right
   search:
@@ -790,7 +790,7 @@ arrow-circle-right:
   voted: false
 arrow-circle-up:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Arrow Circle Up
   search:
@@ -802,7 +802,7 @@ arrow-circle-up:
   voted: false
 arrow-down:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: arrow-down
   search:
@@ -814,7 +814,7 @@ arrow-down:
   voted: false
 arrow-left:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: arrow-left
   search:
@@ -827,7 +827,7 @@ arrow-left:
   voted: false
 arrow-right:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: arrow-right
   search:
@@ -840,7 +840,7 @@ arrow-right:
   voted: false
 arrow-up:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: arrow-up
   search:
@@ -853,7 +853,7 @@ arrow-up:
   voted: false
 arrows-alt:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Alternate Arrows
   search:
@@ -918,7 +918,7 @@ artstation:
   voted: true
 assistive-listening-systems:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Assistive Listening Systems
   search:
@@ -936,7 +936,7 @@ assistive-listening-systems:
   voted: false
 asterisk:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: asterisk
   search:
@@ -952,7 +952,7 @@ asterisk:
 asymmetrik:
   changes:
     - 5.0.0
-  label: 'Asymmetrik, Ltd.'
+  label: "Asymmetrik, Ltd."
   search:
     terms: []
   styles:
@@ -961,7 +961,7 @@ asymmetrik:
   voted: false
 at:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: At
   search:
@@ -1034,7 +1034,7 @@ audible:
   voted: false
 audio-description:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.10.2
   label: Audio Description
@@ -1162,7 +1162,7 @@ backspace:
   voted: true
 backward:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: backward
   search:
@@ -1241,7 +1241,7 @@ bahai:
   voted: false
 balance-scale:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.0.13
   label: Balance Scale
@@ -1292,7 +1292,7 @@ balance-scale-right:
   voted: true
 ban:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: ban
   search:
@@ -1328,7 +1328,7 @@ band-aid:
   voted: false
 bandcamp:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.13.1
   label: Bandcamp
@@ -1340,7 +1340,7 @@ bandcamp:
   voted: false
 barcode:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: barcode
   search:
@@ -1356,7 +1356,7 @@ barcode:
   voted: false
 bars:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Bars
   search:
@@ -1414,7 +1414,7 @@ basketball-ball:
   voted: false
 bath:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.12.0
   label: Bath
@@ -1430,7 +1430,7 @@ bath:
   voted: false
 battery-empty:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Battery Empty
   search:
@@ -1445,7 +1445,7 @@ battery-empty:
   voted: false
 battery-full:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Battery Full
   search:
@@ -1459,7 +1459,7 @@ battery-full:
   voted: false
 battery-half:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Battery 1/2 Full
   search:
@@ -1473,7 +1473,7 @@ battery-half:
   voted: false
 battery-quarter:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Battery 1/4 Full
   search:
@@ -1488,7 +1488,7 @@ battery-quarter:
   voted: false
 battery-three-quarters:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Battery 3/4 Full
   search:
@@ -1511,7 +1511,7 @@ battle-net:
   unicode: f835
 bed:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.1.0
   label: Bed
@@ -1528,7 +1528,7 @@ bed:
   voted: false
 beer:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: beer
   search:
@@ -1549,7 +1549,7 @@ beer:
   voted: false
 behance:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Behance
   search:
@@ -1560,7 +1560,7 @@ behance:
   voted: false
 behance-square:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.0.3
   label: Behance Square
@@ -1572,7 +1572,7 @@ behance-square:
   voted: false
 bell:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.2.0
     - 5.11.0
@@ -1591,7 +1591,7 @@ bell:
   voted: false
 bell-slash:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.2.0
   label: Bell Slash
@@ -1601,7 +1601,7 @@ bell-slash:
       - cancel
       - disabled
       - notification
-      - 'off'
+      - "off"
       - reminder
   styles:
     - solid
@@ -1640,7 +1640,7 @@ bible:
   voted: false
 bicycle:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Bicycle
   search:
@@ -1682,7 +1682,7 @@ bimobject:
   voted: false
 binoculars:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.2.0
   label: Binoculars
@@ -1719,7 +1719,7 @@ biohazard:
   voted: true
 birthday-cake:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Birthday Cake
   search:
@@ -1739,7 +1739,7 @@ birthday-cake:
   voted: false
 bitbucket:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.6.0
     - 5.8.0
@@ -1775,7 +1775,7 @@ bity:
   voted: false
 black-tie:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Font Awesome Black Tie
   search:
@@ -1830,7 +1830,7 @@ blender-phone:
   voted: false
 blind:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.11.0
   label: Blind
@@ -1884,7 +1884,7 @@ blogger-b:
   voted: false
 bluetooth:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Bluetooth
   search:
@@ -1895,7 +1895,7 @@ bluetooth:
   voted: false
 bluetooth-b:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Bluetooth
   search:
@@ -1906,7 +1906,7 @@ bluetooth-b:
   voted: false
 bold:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
     - 5.10.2
@@ -1922,7 +1922,7 @@ bold:
   voted: false
 bolt:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.5.0
   label: Lightning Bolt
@@ -1938,7 +1938,7 @@ bolt:
   voted: false
 bomb:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Bomb
   search:
@@ -1985,7 +1985,7 @@ bong:
   voted: false
 book:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: book
   search:
@@ -2078,7 +2078,7 @@ book-reader:
   voted: false
 bookmark:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: bookmark
@@ -2224,7 +2224,7 @@ boxes:
   voted: false
 braille:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Braille
   search:
@@ -2281,7 +2281,7 @@ bread-slice:
   voted: false
 briefcase:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.3.0
   label: Briefcase
@@ -2360,7 +2360,7 @@ brush:
   voted: false
 btc:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: BTC
   search:
@@ -2380,7 +2380,7 @@ buffer:
   unicode: f837
 bug:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Bug
   search:
@@ -2395,7 +2395,7 @@ bug:
   voted: false
 building:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Building
   search:
@@ -2413,7 +2413,7 @@ building:
   voted: false
 bullhorn:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.3.0
   label: bullhorn
@@ -2430,7 +2430,7 @@ bullhorn:
   voted: false
 bullseye:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.3.0
     - 5.10.1
@@ -2474,7 +2474,7 @@ buromobelexperte:
   voted: false
 bus:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.1.0
   label: Bus
@@ -2531,7 +2531,7 @@ buy-n-large:
   unicode: f8a6
 buysellads:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: BuySellAds
   search:
@@ -2542,7 +2542,7 @@ buysellads:
   voted: false
 calculator:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.3.0
     - 5.11.0
@@ -2562,7 +2562,7 @@ calculator:
   voted: false
 calendar:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.10.2
   label: Calendar
@@ -2581,7 +2581,7 @@ calendar:
   voted: false
 calendar-alt:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.6.0
     - 5.7.0
@@ -2602,7 +2602,7 @@ calendar-alt:
   voted: false
 calendar-check:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.2
   label: Calendar Check
@@ -2651,7 +2651,7 @@ calendar-day:
   voted: true
 calendar-minus:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.2
   label: Calendar Minus
@@ -2673,7 +2673,7 @@ calendar-minus:
   voted: false
 calendar-plus:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.2
   label: Calendar Plus
@@ -2696,7 +2696,7 @@ calendar-plus:
   voted: false
 calendar-times:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.2
   label: Calendar Times
@@ -2739,7 +2739,7 @@ calendar-week:
   voted: true
 camera:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: camera
   search:
@@ -2757,7 +2757,7 @@ camera:
   voted: false
 camera-retro:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.1
   label: Retro Camera
@@ -2862,7 +2862,7 @@ capsules:
   voted: false
 car:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.2.0
   label: Car
@@ -2961,7 +2961,7 @@ caravan:
   voted: true
 caret-down:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Caret Down
   search:
@@ -2978,7 +2978,7 @@ caret-down:
   voted: false
 caret-left:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Caret Left
   search:
@@ -2993,7 +2993,7 @@ caret-left:
   voted: false
 caret-right:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Caret Right
   search:
@@ -3008,7 +3008,7 @@ caret-right:
   voted: false
 caret-square-down:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Caret Square Down
   search:
@@ -3027,7 +3027,7 @@ caret-square-down:
   voted: false
 caret-square-left:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
   label: Caret Square Left
   search:
@@ -3044,7 +3044,7 @@ caret-square-left:
   voted: false
 caret-square-right:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Caret Square Right
   search:
@@ -3061,7 +3061,7 @@ caret-square-right:
   voted: false
 caret-square-up:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Caret Square Up
   search:
@@ -3078,7 +3078,7 @@ caret-square-up:
   voted: false
 caret-up:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Caret Up
   search:
@@ -3106,7 +3106,7 @@ carrot:
   unicode: f787
 cart-arrow-down:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Shopping Cart Arrow Down
   search:
@@ -3120,7 +3120,7 @@ cart-arrow-down:
   voted: false
 cart-plus:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Add to Shopping Cart
   search:
@@ -3185,7 +3185,7 @@ cc-amazon-pay:
   voted: false
 cc-amex:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.7.0
   label: American Express Credit Card
@@ -3208,7 +3208,7 @@ cc-apple-pay:
   voted: false
 cc-diners-club:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Diner's Club Credit Card
   search:
@@ -3219,7 +3219,7 @@ cc-diners-club:
   voted: false
 cc-discover:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Discover Credit Card
   search:
@@ -3230,7 +3230,7 @@ cc-discover:
   voted: false
 cc-jcb:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: JCB Credit Card
   search:
@@ -3241,7 +3241,7 @@ cc-jcb:
   voted: false
 cc-mastercard:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: MasterCard Credit Card
   search:
@@ -3252,7 +3252,7 @@ cc-mastercard:
   voted: false
 cc-paypal:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Paypal Credit Card
   search:
@@ -3263,7 +3263,7 @@ cc-paypal:
   voted: false
 cc-stripe:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Stripe Credit Card
   search:
@@ -3274,7 +3274,7 @@ cc-stripe:
   voted: false
 cc-visa:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Visa Credit Card
   search:
@@ -3309,7 +3309,7 @@ centos:
   voted: true
 certificate:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -3387,7 +3387,7 @@ charging-station:
   voted: false
 chart-area:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Area Chart
   search:
@@ -3402,7 +3402,7 @@ chart-area:
   voted: false
 chart-bar:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.3.0
   label: Bar Chart
@@ -3419,7 +3419,7 @@ chart-bar:
   voted: false
 chart-line:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.3.0
   label: Line Chart
@@ -3439,7 +3439,7 @@ chart-line:
   voted: false
 chart-pie:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.3.0
   label: Pie Chart
@@ -3456,7 +3456,7 @@ chart-pie:
   voted: false
 check:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Check
   search:
@@ -3475,14 +3475,14 @@ check:
       - success
       - tick
       - todo
-      - 'yes'
+      - "yes"
   styles:
     - solid
   unicode: f00c
   voted: false
 check-circle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Check Circle
   search:
@@ -3497,7 +3497,7 @@ check-circle:
       - success
       - tick
       - todo
-      - 'yes'
+      - "yes"
   styles:
     - solid
     - regular
@@ -3530,7 +3530,7 @@ check-double:
   voted: true
 check-square:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Check Square
   search:
@@ -3546,7 +3546,7 @@ check-square:
       - success
       - tick
       - todo
-      - 'yes'
+      - "yes"
   styles:
     - solid
     - regular
@@ -3699,7 +3699,7 @@ chess-rook:
   voted: false
 chevron-circle-down:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Chevron Circle Down
   search:
@@ -3715,7 +3715,7 @@ chevron-circle-down:
   voted: false
 chevron-circle-left:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Chevron Circle Left
   search:
@@ -3729,7 +3729,7 @@ chevron-circle-left:
   voted: false
 chevron-circle-right:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Chevron Circle Right
   search:
@@ -3743,7 +3743,7 @@ chevron-circle-right:
   voted: false
 chevron-circle-up:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Chevron Circle Up
   search:
@@ -3757,7 +3757,7 @@ chevron-circle-up:
   voted: false
 chevron-down:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: chevron-down
   search:
@@ -3771,7 +3771,7 @@ chevron-down:
   voted: false
 chevron-left:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: chevron-left
   search:
@@ -3786,7 +3786,7 @@ chevron-left:
   voted: false
 chevron-right:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: chevron-right
   search:
@@ -3801,7 +3801,7 @@ chevron-right:
   voted: false
 chevron-up:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: chevron-up
   search:
@@ -3815,7 +3815,7 @@ chevron-up:
   voted: false
 child:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Child
   search:
@@ -3831,7 +3831,7 @@ child:
   voted: false
 chrome:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Chrome
   search:
@@ -3867,7 +3867,7 @@ church:
   voted: true
 circle:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -3887,7 +3887,7 @@ circle:
   voted: false
 circle-notch:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Circle Notched
@@ -3966,7 +3966,7 @@ clipboard-check:
       - success
       - tick
       - todo
-      - 'yes'
+      - "yes"
   styles:
     - solid
   unicode: f46c
@@ -3993,7 +3993,7 @@ clipboard-list:
   voted: false
 clock:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.12.1
   label: Clock
@@ -4013,7 +4013,7 @@ clock:
   voted: false
 clone:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.11.0
   label: Clone
@@ -4030,7 +4030,7 @@ clone:
   voted: false
 closed-captioning:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.10.1
   label: Closed Captioning
@@ -4050,7 +4050,7 @@ closed-captioning:
   voted: false
 cloud:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.11
   label: Cloud
@@ -4258,7 +4258,7 @@ cocktail:
   voted: false
 code:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Code
   search:
@@ -4292,7 +4292,7 @@ code-branch:
   voted: false
 codepen:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Codepen
   search:
@@ -4303,7 +4303,7 @@ codepen:
   voted: false
 codiepie:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Codie Pie
   search:
@@ -4314,7 +4314,7 @@ codiepie:
   voted: false
 coffee:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Coffee
   search:
@@ -4334,7 +4334,7 @@ coffee:
   voted: false
 cog:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: cog
   search:
@@ -4350,7 +4350,7 @@ cog:
   voted: false
 cogs:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: cogs
   search:
@@ -4382,7 +4382,7 @@ coins:
   voted: true
 columns:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Columns
   search:
@@ -4398,7 +4398,7 @@ columns:
   voted: false
 comment:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.9
     - 5.10.1
@@ -4423,7 +4423,7 @@ comment:
   voted: false
 comment-alt:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Alternate Comment
@@ -4544,7 +4544,7 @@ comment-slash:
   voted: false
 comments:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.9
   label: comments
@@ -4617,7 +4617,7 @@ compact-disc:
   voted: true
 compass:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.2.0
     - 5.11.0
@@ -4656,7 +4656,7 @@ compress:
   voted: false
 compress-alt:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.12.0
   label: Alternate Compress
@@ -4718,7 +4718,7 @@ confluence:
   voted: true
 connectdevelop:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Connect Develop
   search:
@@ -4729,7 +4729,7 @@ connectdevelop:
   voted: false
 contao:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Contao
   search:
@@ -4775,7 +4775,7 @@ cookie-bite:
   voted: true
 copy:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.2
   label: Copy
@@ -4794,7 +4794,7 @@ copy:
   voted: false
 copyright:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -4849,7 +4849,7 @@ cpanel:
   voted: false
 creative-commons:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.0.11
     - 5.1.0
@@ -4993,7 +4993,7 @@ creative-commons-zero:
   voted: false
 credit-card:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Credit Card
   search:
@@ -5030,7 +5030,7 @@ critical-role:
   voted: false
 crop:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.1.0
   label: crop
@@ -5077,7 +5077,7 @@ cross:
   voted: false
 crosshairs:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Crosshairs
   search:
@@ -5139,7 +5139,7 @@ crutch:
   voted: false
 css3:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: CSS 3 Logo
   search:
@@ -5161,7 +5161,7 @@ css3-alt:
   voted: false
 cube:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Cube
   search:
@@ -5178,7 +5178,7 @@ cube:
   voted: false
 cubes:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Cubes
   search:
@@ -5197,7 +5197,7 @@ cubes:
   voted: false
 cut:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.1.0
   label: Cut
@@ -5258,7 +5258,7 @@ dailymotion:
   voted: true
 dashcube:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.0.3
   label: DashCube
@@ -5270,7 +5270,7 @@ dashcube:
   voted: false
 database:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Database
   search:
@@ -5286,7 +5286,7 @@ database:
   voted: false
 deaf:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Deaf
   search:
@@ -5310,7 +5310,7 @@ deezer:
   voted: true
 delicious:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.7.0
   label: Delicious
@@ -5361,7 +5361,7 @@ deskpro:
   voted: false
 desktop:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Desktop
   search:
@@ -5392,7 +5392,7 @@ dev:
   voted: true
 deviantart:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: deviantART
   search:
@@ -5591,7 +5591,7 @@ dice-two:
   voted: true
 digg:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Digg Logo
   search:
@@ -5767,7 +5767,7 @@ dog:
   voted: false
 dollar-sign:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.0.9
     - 5.11.0
@@ -5854,7 +5854,7 @@ door-open:
   voted: true
 dot-circle:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
   label: Dot Circle
   search:
@@ -5886,7 +5886,7 @@ dove:
   voted: false
 download:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Download
   search:
@@ -5978,7 +5978,7 @@ dribbble-square:
   voted: false
 dropbox:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.0.1
   label: Dropbox
@@ -6042,7 +6042,7 @@ drumstick-bite:
   voted: false
 drupal:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Drupal Logo
   search:
@@ -6153,7 +6153,7 @@ ebay:
   voted: true
 edge:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
     - 5.12.1
   label: Edge Browser
@@ -6177,7 +6177,7 @@ edge-legacy:
   voted: false
 edit:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Edit
   search:
@@ -6209,7 +6209,7 @@ egg:
   voted: false
 eject:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: eject
   search:
@@ -6234,7 +6234,7 @@ elementor:
   voted: true
 ellipsis-h:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Horizontal Ellipsis
   search:
@@ -6256,7 +6256,7 @@ ellipsis-h:
   voted: false
 ellipsis-v:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Vertical Ellipsis
   search:
@@ -6299,7 +6299,7 @@ ember:
   voted: false
 empire:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Galactic Empire
   search:
@@ -6310,7 +6310,7 @@ empire:
   voted: false
 envelope:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -6331,7 +6331,7 @@ envelope:
   voted: false
 envelope-open:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -6371,7 +6371,7 @@ envelope-open-text:
   voted: false
 envelope-square:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Envelope Square
   search:
@@ -6389,7 +6389,7 @@ envelope-square:
   voted: false
 envira:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Envira Gallery
   search:
@@ -6415,7 +6415,7 @@ equals:
   voted: false
 eraser:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.8.0
   label: eraser
@@ -6471,7 +6471,7 @@ ethernet:
   voted: true
 etsy:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Etsy
   search:
@@ -6482,7 +6482,7 @@ etsy:
   voted: false
 euro-sign:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Euro Sign
   search:
@@ -6523,7 +6523,7 @@ exchange-alt:
   voted: false
 exclamation:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -6545,7 +6545,7 @@ exclamation:
   voted: false
 exclamation-circle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Exclamation Circle
   search:
@@ -6565,7 +6565,7 @@ exclamation-circle:
   voted: false
 exclamation-triangle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.6.1
   label: Exclamation Triangle
@@ -6600,7 +6600,7 @@ expand:
   voted: false
 expand-alt:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.12.0
   label: Alternate Expand
@@ -6633,7 +6633,7 @@ expand-arrows-alt:
   voted: false
 expeditedssl:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: ExpeditedSSL
   search:
@@ -6673,7 +6673,7 @@ external-link-square-alt:
   voted: false
 eye:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.7.0
   label: Eye
@@ -6694,7 +6694,7 @@ eye:
   voted: false
 eye-dropper:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.1.0
   label: Eye Dropper
@@ -6712,7 +6712,7 @@ eye-dropper:
   voted: false
 eye-slash:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.7.0
   label: Eye Slash
@@ -6733,7 +6733,7 @@ eye-slash:
   voted: false
 facebook:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.8.2
   label: Facebook
@@ -6771,7 +6771,7 @@ facebook-messenger:
   voted: false
 facebook-square:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.8.2
   label: Facebook Square
@@ -6818,7 +6818,7 @@ fantasy-flight-games:
   voted: false
 fast-backward:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: fast-backward
   search:
@@ -6834,7 +6834,7 @@ fast-backward:
   voted: false
 fast-forward:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: fast-forward
   search:
@@ -6865,7 +6865,7 @@ faucet:
   voted: false
 fax:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.3.0
     - 5.11.0
@@ -6941,7 +6941,7 @@ fedora:
   voted: true
 female:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Female
   search:
@@ -6957,7 +6957,7 @@ female:
   voted: false
 fighter-jet:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: fighter-jet
   search:
@@ -6993,7 +6993,7 @@ figma:
   voted: false
 file:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -7012,7 +7012,7 @@ file:
   voted: false
 file-alt:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.10.2
   label: Alternate File
@@ -7031,7 +7031,7 @@ file-alt:
   voted: false
 file-archive:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.7.0
     - 5.10.2
@@ -7051,7 +7051,7 @@ file-archive:
   voted: false
 file-audio:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Audio File
@@ -7070,7 +7070,7 @@ file-audio:
   voted: false
 file-code:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Code File
@@ -7133,7 +7133,7 @@ file-download:
   voted: true
 file-excel:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Excel File
@@ -7165,7 +7165,7 @@ file-export:
   voted: true
 file-image:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Image File
@@ -7269,7 +7269,7 @@ file-medical-alt:
   voted: false
 file-pdf:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: PDF File
@@ -7286,7 +7286,7 @@ file-pdf:
   voted: false
 file-powerpoint:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Powerpoint File
@@ -7349,7 +7349,7 @@ file-upload:
   voted: true
 file-video:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Video File
@@ -7367,7 +7367,7 @@ file-video:
   voted: false
 file-word:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Word File
@@ -7415,7 +7415,7 @@ fill-drip:
   voted: false
 film:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Film
   search:
@@ -7430,7 +7430,7 @@ film:
   voted: false
 filter:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
     - 5.11.0
@@ -7466,7 +7466,7 @@ fingerprint:
   voted: true
 fire:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.6.0
     - 5.6.3
@@ -7501,7 +7501,7 @@ fire-alt:
   unicode: f7e4
 fire-extinguisher:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: fire-extinguisher
   search:
@@ -7519,7 +7519,7 @@ fire-extinguisher:
   voted: false
 firefox:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.0.1
     - 5.12.0
@@ -7559,7 +7559,7 @@ first-aid:
   voted: false
 first-order:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: First Order
   search:
@@ -7625,7 +7625,7 @@ fist-raised:
   voted: false
 flag:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: flag
   search:
@@ -7644,7 +7644,7 @@ flag:
   voted: false
 flag-checkered:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.7.0
     - 5.10.1
@@ -7680,7 +7680,7 @@ flag-usa:
   voted: false
 flask:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Flask
   search:
@@ -7695,7 +7695,7 @@ flask:
   voted: false
 flickr:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Flickr
   search:
@@ -7743,7 +7743,7 @@ fly:
   voted: false
 folder:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.3.0
     - 5.10.1
@@ -7778,7 +7778,7 @@ folder-minus:
   voted: false
 folder-open:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Folder Open
   search:
@@ -7816,7 +7816,7 @@ folder-plus:
   voted: false
 font:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
     - 5.10.2
@@ -7834,7 +7834,7 @@ font:
   voted: false
 font-awesome:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Font Awesome
   search:
@@ -7882,7 +7882,7 @@ font-awesome-logo-full:
   voted: false
 fonticons:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Fonticons
   search:
@@ -7920,7 +7920,7 @@ football-ball:
   voted: false
 fort-awesome:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
     - 5.0.3
   label: Fort Awesome
@@ -7944,7 +7944,7 @@ fort-awesome-alt:
   voted: false
 forumbee:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Forumbee
   search:
@@ -7955,7 +7955,7 @@ forumbee:
   voted: false
 forward:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: forward
   search:
@@ -7969,7 +7969,7 @@ forward:
   voted: false
 foursquare:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Foursquare
   search:
@@ -7980,7 +7980,7 @@ foursquare:
   voted: false
 free-code-camp:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.12.0
   label: freeCodeCamp
@@ -8022,7 +8022,7 @@ frog:
   voted: false
 frown:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.0.9
     - 5.1.0
@@ -8087,7 +8087,7 @@ funnel-dollar:
   voted: false
 futbol:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.0.5
   label: Futbol
@@ -8127,7 +8127,7 @@ galactic-senate:
   voted: false
 gamepad:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.11.0
   label: Gamepad
@@ -8160,7 +8160,7 @@ gas-pump:
   voted: true
 gavel:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Gavel
   search:
@@ -8193,7 +8193,7 @@ gem:
   voted: false
 genderless:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.11.0
     - 5.11.1
@@ -8209,7 +8209,7 @@ genderless:
   voted: false
 get-pocket:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Get Pocket
   search:
@@ -8220,7 +8220,7 @@ get-pocket:
   voted: false
 gg:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: GG Currency
   search:
@@ -8231,7 +8231,7 @@ gg:
   voted: false
 gg-circle:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: GG Currency Circle
   search:
@@ -8261,7 +8261,7 @@ ghost:
   voted: false
 gift:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.9
     - 5.6.0
@@ -8299,7 +8299,7 @@ gifts:
   unicode: f79c
 git:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.8.2
   label: Git
@@ -8320,7 +8320,7 @@ git-alt:
   unicode: f841
 git-square:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.8.2
   label: Git Square
@@ -8332,7 +8332,7 @@ git-square:
   voted: false
 github:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: GitHub
   search:
@@ -8344,7 +8344,7 @@ github:
   voted: false
 github-alt:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Alternate GitHub
   search:
@@ -8356,7 +8356,7 @@ github-alt:
   voted: false
 github-square:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: GitHub Square
   search:
@@ -8378,7 +8378,7 @@ gitkraken:
   voted: false
 gitlab:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.7.0
   label: GitLab
@@ -8421,7 +8421,7 @@ glass-cheers:
   unicode: f79f
 glass-martini:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.1.0
     - 5.10.1
@@ -8489,7 +8489,7 @@ glasses:
   voted: true
 glide:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Glide
   search:
@@ -8500,7 +8500,7 @@ glide:
   voted: false
 glide-g:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Glide G
   search:
@@ -8511,7 +8511,7 @@ glide-g:
   voted: false
 globe:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.9
     - 5.11.0
@@ -8693,7 +8693,7 @@ goodreads-g:
   voted: false
 google:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Google Logo
   search:
@@ -8734,7 +8734,7 @@ google-play:
   voted: false
 google-plus:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.13.1
   label: Google Plus
@@ -8748,7 +8748,7 @@ google-plus:
   voted: false
 google-plus-g:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Google Plus G
   search:
@@ -8761,7 +8761,7 @@ google-plus-g:
   voted: false
 google-plus-square:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Google Plus Square
   search:
@@ -8773,7 +8773,7 @@ google-plus-square:
   voted: false
 google-wallet:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Google Wallet
   search:
@@ -8801,7 +8801,7 @@ gopuram:
   voted: false
 graduation-cap:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.2.0
     - 5.10.1
@@ -8820,7 +8820,7 @@ graduation-cap:
   voted: false
 gratipay:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Gratipay (Gittip)
   search:
@@ -8835,7 +8835,7 @@ gratipay:
   voted: false
 grav:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Grav
   search:
@@ -9167,7 +9167,7 @@ grip-vertical:
 gripfire:
   changes:
     - 5.0.0
-  label: 'Gripfire, Inc.'
+  label: "Gripfire, Inc."
   search:
     terms: []
   styles:
@@ -9214,7 +9214,7 @@ gulp:
   voted: false
 h-square:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: H Square
   search:
@@ -9230,7 +9230,7 @@ h-square:
   voted: false
 hacker-news:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Hacker News
   search:
@@ -9390,7 +9390,7 @@ hand-holding-water:
   voted: false
 hand-lizard:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Lizard (Hand)
   search:
@@ -9420,7 +9420,7 @@ hand-middle-finger:
   voted: true
 hand-paper:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Paper (Hand)
   search:
@@ -9436,7 +9436,7 @@ hand-paper:
   voted: false
 hand-peace:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Peace (Hand)
   search:
@@ -9450,7 +9450,7 @@ hand-peace:
   voted: false
 hand-point-down:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Hand Pointing Down
   search:
@@ -9465,7 +9465,7 @@ hand-point-down:
   voted: false
 hand-point-left:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Hand Pointing Left
   search:
@@ -9483,7 +9483,7 @@ hand-point-left:
   voted: false
 hand-point-right:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Hand Pointing Right
   search:
@@ -9501,7 +9501,7 @@ hand-point-right:
   voted: false
 hand-point-up:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Hand Pointing Up
   search:
@@ -9516,7 +9516,7 @@ hand-point-up:
   voted: false
 hand-pointer:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Pointer (Hand)
   search:
@@ -9531,7 +9531,7 @@ hand-pointer:
   voted: false
 hand-rock:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Rock (Hand)
   search:
@@ -9546,7 +9546,7 @@ hand-rock:
   voted: false
 hand-scissors:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Scissors (Hand)
   search:
@@ -9577,7 +9577,7 @@ hand-sparkles:
   voted: false
 hand-spock:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.12.0
   label: Spock (Hand)
@@ -9637,7 +9637,7 @@ hands-wash:
   voted: false
 handshake:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.0.9
   label: Handshake
@@ -9709,7 +9709,7 @@ hard-hat:
   voted: true
 hashtag:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Hashtag
   search:
@@ -9792,7 +9792,7 @@ hat-wizard:
   voted: false
 hdd:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
   label: HDD
@@ -9872,7 +9872,7 @@ head-side-virus:
   voted: false
 heading:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.9.0
     - 5.10.1
@@ -9890,7 +9890,7 @@ heading:
   voted: false
 headphones:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: headphones
   search:
@@ -9941,7 +9941,7 @@ headset:
   voted: true
 heart:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.9
     - 5.10.1
@@ -9981,7 +9981,7 @@ heart-broken:
   voted: true
 heartbeat:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.0.7
   label: Heartbeat
@@ -10084,7 +10084,7 @@ hire-a-helper:
   voted: false
 history:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: History
   search:
@@ -10132,7 +10132,7 @@ holly-berry:
   unicode: f7aa
 home:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.7.0
   label: home
@@ -10203,7 +10203,7 @@ horse-head:
   unicode: f7ab
 hospital:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: hospital
   search:
@@ -10323,7 +10323,7 @@ hotjar:
   voted: false
 hourglass:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Hourglass
@@ -10341,7 +10341,7 @@ hourglass:
   voted: false
 hourglass-end:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Hourglass End
@@ -10358,7 +10358,7 @@ hourglass-end:
   voted: false
 hourglass-half:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Hourglass Half
@@ -10375,7 +10375,7 @@ hourglass-half:
   voted: false
 hourglass-start:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Hourglass Start
@@ -10421,7 +10421,7 @@ house-user:
   voted: false
 houzz:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.0.9
     - 5.8.0
@@ -10448,7 +10448,7 @@ hryvnia:
   voted: true
 html5:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: HTML 5 Logo
   search:
@@ -10469,7 +10469,7 @@ hubspot:
   voted: false
 i-cursor:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: I Beam Cursor
   search:
@@ -10536,7 +10536,7 @@ icons:
   voted: false
 id-badge:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.0.3
   label: Identification Badge
@@ -10554,7 +10554,7 @@ id-badge:
   voted: false
 id-card:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.0.3
     - 5.8.0
@@ -10618,7 +10618,7 @@ igloo:
   unicode: f7ae
 image:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.1
   label: Image
@@ -10635,7 +10635,7 @@ image:
   voted: false
 images:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.1
   label: Images
@@ -10652,7 +10652,7 @@ images:
   voted: false
 imdb:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: IMDB
   search:
@@ -10663,7 +10663,7 @@ imdb:
   voted: false
 inbox:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: inbox
   search:
@@ -10679,7 +10679,7 @@ inbox:
   voted: false
 indent:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
   label: Indent
@@ -10695,7 +10695,7 @@ indent:
   voted: false
 industry:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Industry
@@ -10728,7 +10728,7 @@ infinity:
   voted: true
 info:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -10746,7 +10746,7 @@ info:
   voted: false
 info-circle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Info Circle
   search:
@@ -10762,7 +10762,7 @@ info-circle:
   voted: false
 instagram:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Instagram
   search:
@@ -10796,7 +10796,7 @@ intercom:
   voted: false
 internet-explorer:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Internet-explorer
   search:
@@ -10822,7 +10822,7 @@ invision:
   voted: false
 ioxhost:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: ioxhost
   search:
@@ -10833,7 +10833,7 @@ ioxhost:
   voted: false
 italic:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
     - 5.10.1
@@ -10972,7 +10972,7 @@ joint:
   voted: false
 joomla:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Joomla Logo
   search:
@@ -11021,7 +11021,7 @@ js-square:
   voted: false
 jsfiddle:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: jsFiddle
   search:
@@ -11057,7 +11057,7 @@ kaggle:
   voted: true
 key:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.1
   label: key
@@ -11087,7 +11087,7 @@ keybase:
   voted: true
 keyboard:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Keyboard
   search:
@@ -11242,7 +11242,7 @@ landmark:
   voted: false
 language:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Language
@@ -11260,7 +11260,7 @@ language:
   voted: false
 laptop:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.2.0
   label: Laptop
@@ -11344,7 +11344,7 @@ laravel:
   voted: false
 lastfm:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: last.fm
   search:
@@ -11355,7 +11355,7 @@ lastfm:
   voted: false
 lastfm-square:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.0.11
   label: last.fm Square
@@ -11454,7 +11454,7 @@ layer-group:
   voted: false
 leaf:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.9
   label: leaf
@@ -11471,7 +11471,7 @@ leaf:
   voted: false
 leanpub:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Leanpub
   search:
@@ -11482,7 +11482,7 @@ leanpub:
   voted: false
 lemon:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Lemon
   search:
@@ -11558,7 +11558,7 @@ level-up-alt:
   voted: false
 life-ring:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Life Ring
   search:
@@ -11575,7 +11575,7 @@ life-ring:
   voted: false
 lightbulb:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.3.0
   label: Lightbulb
@@ -11602,7 +11602,7 @@ line:
   voted: false
 link:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Link
   search:
@@ -11617,7 +11617,7 @@ link:
   voted: false
 linkedin:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: LinkedIn
   search:
@@ -11629,7 +11629,7 @@ linkedin:
   voted: false
 linkedin-in:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.4.1
     - 5.8.0
@@ -11644,7 +11644,7 @@ linkedin-in:
   voted: false
 linode:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Linode
   search:
@@ -11655,7 +11655,7 @@ linode:
   voted: false
 linux:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Linux
   search:
@@ -11667,7 +11667,7 @@ linux:
   voted: false
 lira-sign:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
   label: Turkish Lira Sign
   search:
@@ -11682,7 +11682,7 @@ lira-sign:
   voted: false
 list:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
   label: List
@@ -11701,7 +11701,7 @@ list:
   voted: false
 list-alt:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Alternate List
   search:
@@ -11720,7 +11720,7 @@ list-alt:
   voted: false
 list-ol:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.9.0
   label: list-ol
@@ -11740,7 +11740,7 @@ list-ol:
   voted: false
 list-ul:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.9.0
   label: list-ul
@@ -11759,7 +11759,7 @@ list-ul:
   voted: false
 location-arrow:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: location-arrow
   search:
@@ -11778,7 +11778,7 @@ location-arrow:
   voted: false
 lock:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: lock
   search:
@@ -11796,7 +11796,7 @@ lock:
   voted: false
 lock-open:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.0.1
   label: Lock Open
@@ -11865,7 +11865,7 @@ long-arrow-alt-up:
   voted: false
 low-vision:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Low Vision
   search:
@@ -11942,7 +11942,7 @@ magento:
   voted: false
 magic:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.1.0
   label: magic
@@ -11962,7 +11962,7 @@ magic:
   voted: false
 magnet:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.8.0
   label: magnet
@@ -12009,7 +12009,7 @@ mailchimp:
   voted: true
 male:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Male
   search:
@@ -12036,7 +12036,7 @@ mandalorian:
   voted: false
 map:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.1.0
   label: Map
@@ -12114,7 +12114,7 @@ map-marked-alt:
   voted: false
 map-marker:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: map-marker
   search:
@@ -12165,7 +12165,7 @@ map-marker-alt:
   voted: false
 map-pin:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.2.0
   label: Map Pin
@@ -12191,7 +12191,7 @@ map-pin:
   voted: false
 map-signs:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.2.0
   label: Map Signs
@@ -12234,7 +12234,7 @@ marker:
   voted: true
 mars:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Mars
   search:
@@ -12246,7 +12246,7 @@ mars:
   voted: false
 mars-double:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Mars Double
   search:
@@ -12257,7 +12257,7 @@ mars-double:
   voted: false
 mars-stroke:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Mars Stroke
   search:
@@ -12268,7 +12268,7 @@ mars-stroke:
   voted: false
 mars-stroke-h:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.11.0
   label: Mars Stroke Horizontal
@@ -12280,7 +12280,7 @@ mars-stroke-h:
   voted: false
 mars-stroke-v:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.11.0
   label: Mars Stroke Vertical
@@ -12320,7 +12320,7 @@ mastodon:
   voted: true
 maxcdn:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: MaxCDN
   search:
@@ -12364,7 +12364,7 @@ medapps:
   voted: false
 medium:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Medium
   search:
@@ -12385,7 +12385,7 @@ medium-m:
   voted: false
 medkit:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: medkit
   search:
@@ -12411,7 +12411,7 @@ medrt:
   voted: false
 meetup:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Meetup
   search:
@@ -12432,7 +12432,7 @@ megaport:
   voted: false
 meh:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.0.9
     - 5.1.0
@@ -12527,7 +12527,7 @@ menorah:
   voted: false
 mercury:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.11.0
   label: Mercury
@@ -12566,7 +12566,7 @@ microblog:
   voted: true
 microchip:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Microchip
   search:
@@ -12581,7 +12581,7 @@ microchip:
   voted: false
 microphone:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.0.13
   label: microphone
@@ -12634,7 +12634,7 @@ microphone-alt-slash:
   voted: false
 microphone-slash:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.0.13
   label: Microphone Slash
@@ -12680,7 +12680,7 @@ microsoft:
   voted: true
 minus:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: minus
   search:
@@ -12698,7 +12698,7 @@ minus:
   voted: false
 minus-circle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: Minus Circle
@@ -12716,7 +12716,7 @@ minus-circle:
   voted: false
 minus-square:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Minus Square
   search:
@@ -12763,7 +12763,7 @@ mix:
   voted: false
 mixcloud:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Mixcloud
   search:
@@ -12794,7 +12794,7 @@ mizuni:
   voted: false
 mobile:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Mobile Phone
   search:
@@ -12833,7 +12833,7 @@ mobile-alt:
   voted: false
 modx:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: MODX
   search:
@@ -12854,7 +12854,7 @@ monero:
   voted: false
 money-bill:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.13
   label: Money Bill
@@ -12976,7 +12976,7 @@ monument:
   voted: false
 moon:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.11.0
     - 5.11.1
@@ -13027,7 +13027,7 @@ mosque:
   voted: false
 motorcycle:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Motorcycle
   search:
@@ -13073,7 +13073,7 @@ mouse:
   voted: true
 mouse-pointer:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.0.3
   label: Mouse Pointer
@@ -13107,7 +13107,7 @@ mug-hot:
   unicode: f7b6
 music:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.2.0
     - 5.11.0
@@ -13161,7 +13161,7 @@ network-wired:
   voted: true
 neuter:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.11.0
   label: Neuter
@@ -13173,7 +13173,7 @@ neuter:
   voted: false
 newspaper:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Newspaper
   search:
@@ -13283,7 +13283,7 @@ nutritionix:
   voted: false
 object-group:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Object Group
@@ -13301,7 +13301,7 @@ object-group:
   voted: false
 object-ungroup:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Object Ungroup
@@ -13319,7 +13319,7 @@ object-ungroup:
   voted: false
 odnoklassniki:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Odnoklassniki
   search:
@@ -13330,7 +13330,7 @@ odnoklassniki:
   voted: false
 odnoklassniki-square:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Odnoklassniki Square
   search:
@@ -13384,7 +13384,7 @@ om:
   voted: false
 opencart:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: OpenCart
   search:
@@ -13395,7 +13395,7 @@ opencart:
   voted: false
 openid:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: OpenID
   search:
@@ -13406,7 +13406,7 @@ openid:
   voted: false
 opera:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Opera
   search:
@@ -13417,7 +13417,7 @@ opera:
   voted: false
 optin-monster:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.7.0
   label: Optin Monster
@@ -13465,7 +13465,7 @@ otter:
   voted: false
 outdent:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
   label: Outdent
@@ -13491,7 +13491,7 @@ page4:
   voted: false
 pagelines:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
   label: Pagelines
   search:
@@ -13522,7 +13522,7 @@ pager:
   voted: false
 paint-brush:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.1.0
   label: Paint Brush
@@ -13604,7 +13604,7 @@ pallet:
   voted: false
 paper-plane:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Paper Plane
   search:
@@ -13622,7 +13622,7 @@ paper-plane:
   voted: false
 paperclip:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Paperclip
   search:
@@ -13651,7 +13651,7 @@ parachute-box:
   voted: false
 paragraph:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.9.0
   label: paragraph
@@ -13710,7 +13710,7 @@ pastafarianism:
   voted: false
 paste:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Paste
   search:
@@ -13736,7 +13736,7 @@ patreon:
   voted: false
 pause:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: pause
@@ -13750,7 +13750,7 @@ pause:
   voted: false
 pause-circle:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Pause Circle
   search:
@@ -13764,7 +13764,7 @@ pause-circle:
   voted: false
 paw:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Paw
   search:
@@ -13780,7 +13780,7 @@ paw:
   voted: false
 paypal:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Paypal
   search:
@@ -13867,7 +13867,7 @@ pen-nib:
   voted: true
 pen-square:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Pen Square
   search:
@@ -13981,7 +13981,7 @@ pepper-hot:
   voted: true
 percent:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Percent
   search:
@@ -14071,7 +14071,7 @@ phoenix-squadron:
   voted: false
 phone:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -14127,7 +14127,7 @@ phone-slash:
   voted: false
 phone-square:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Phone Square
   search:
@@ -14161,7 +14161,7 @@ phone-square-alt:
   voted: false
 phone-volume:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.0.3
     - 5.7.0
@@ -14207,7 +14207,7 @@ php:
   voted: true
 pied-piper:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.0.10
     - 5.12.0
@@ -14220,7 +14220,7 @@ pied-piper:
   voted: false
 pied-piper-alt:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.7.0
   label: Alternate Pied Piper Logo (Old)
@@ -14243,7 +14243,7 @@ pied-piper-hat:
   voted: false
 pied-piper-pp:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Pied Piper PP Logo (Old)
   search:
@@ -14292,7 +14292,7 @@ pills:
   voted: false
 pinterest:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Pinterest
   search:
@@ -14303,7 +14303,7 @@ pinterest:
   voted: false
 pinterest-p:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Pinterest P
   search:
@@ -14314,7 +14314,7 @@ pinterest-p:
   voted: false
 pinterest-square:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Pinterest Square
   search:
@@ -14360,7 +14360,7 @@ place-of-worship:
   voted: false
 plane:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.13
   label: plane
@@ -14436,7 +14436,7 @@ plane-slash:
   voted: false
 play:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: play
@@ -14454,7 +14454,7 @@ play:
   voted: false
 play-circle:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.10.2
   label: Play Circle
@@ -14483,7 +14483,7 @@ playstation:
   voted: false
 plug:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.12.0
   label: Plug
@@ -14499,7 +14499,7 @@ plug:
   voted: false
 plus:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.13
   label: plus
@@ -14517,7 +14517,7 @@ plus:
   voted: false
 plus-circle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Plus Circle
   search:
@@ -14534,7 +14534,7 @@ plus-circle:
   voted: false
 plus-square:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Plus Square
   search:
@@ -14552,7 +14552,7 @@ plus-square:
   voted: false
 podcast:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Podcast
   search:
@@ -14664,7 +14664,7 @@ portrait:
   voted: false
 pound-sign:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Pound Sign
   search:
@@ -14678,14 +14678,14 @@ pound-sign:
   voted: false
 power-off:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Power Off
   search:
     terms:
       - cancel
       - computer
-      - 'on'
+      - "on"
       - reboot
       - restart
   styles:
@@ -14767,7 +14767,7 @@ prescription-bottle-alt:
   voted: false
 print:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.3.0
     - 5.11.0
@@ -14803,7 +14803,7 @@ procedures:
   voted: false
 product-hunt:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Product Hunt
   search:
@@ -14873,7 +14873,7 @@ pushed:
   voted: false
 puzzle-piece:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Puzzle Piece
   search:
@@ -14898,7 +14898,7 @@ python:
   voted: false
 qq:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: QQ
   search:
@@ -14909,7 +14909,7 @@ qq:
   voted: false
 qrcode:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.1
   label: qrcode
@@ -14925,7 +14925,7 @@ qrcode:
   voted: false
 question:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Question
   search:
@@ -14940,7 +14940,7 @@ question:
   voted: false
 question-circle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Question Circle
   search:
@@ -14987,7 +14987,7 @@ quinscape:
   voted: false
 quora:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Quora
   search:
@@ -14998,7 +14998,7 @@ quora:
   voted: false
 quote-left:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.0.9
   label: quote-left
@@ -15015,7 +15015,7 @@ quote-left:
   voted: false
 quote-right:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.0.9
   label: quote-right
@@ -15113,7 +15113,7 @@ rainbow:
   voted: false
 random:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: random
   search:
@@ -15140,7 +15140,7 @@ raspberry-pi:
   voted: true
 ravelry:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Ravelry
   search:
@@ -15183,7 +15183,7 @@ readme:
   voted: false
 rebel:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Rebel Alliance
   search:
@@ -15225,7 +15225,7 @@ record-vinyl:
   voted: false
 recycle:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Recycle
   search:
@@ -15251,7 +15251,7 @@ red-river:
   voted: false
 reddit:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: reddit Logo
   search:
@@ -15262,7 +15262,7 @@ reddit:
   voted: false
 reddit-alien:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: reddit Alien
   search:
@@ -15273,7 +15273,7 @@ reddit-alien:
   voted: false
 reddit-square:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: reddit Square
   search:
@@ -15298,7 +15298,7 @@ redhat:
   voted: true
 redo:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.8.0
   label: Redo
@@ -15328,7 +15328,7 @@ redo-alt:
   voted: false
 registered:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.1
   label: Registered Trademark
@@ -15360,7 +15360,7 @@ remove-format:
   voted: false
 renren:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Renren
   search:
@@ -15371,7 +15371,7 @@ renren:
   voted: false
 reply:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: Reply
   search:
@@ -15385,7 +15385,7 @@ reply:
   voted: false
 reply-all:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: reply-all
   search:
@@ -15465,7 +15465,7 @@ restroom:
   voted: true
 retweet:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Retweet
   search:
@@ -15528,7 +15528,7 @@ ring:
   voted: false
 road:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.2.0
   label: road
@@ -15561,7 +15561,7 @@ robot:
   voted: true
 rocket:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.7.0
     - 5.12.0
@@ -15616,7 +15616,7 @@ route:
   voted: false
 rss:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: rss
   search:
@@ -15632,7 +15632,7 @@ rss:
   voted: false
 rss-square:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: RSS Square
   search:
@@ -15648,7 +15648,7 @@ rss-square:
   voted: false
 ruble-sign:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
   label: Ruble Sign
   search:
@@ -15740,7 +15740,7 @@ running:
   voted: true
 rupee-sign:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Indian Rupee Sign
   search:
@@ -15799,7 +15799,7 @@ sad-tear:
   voted: false
 safari:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.12.0
   label: Safari
@@ -15866,7 +15866,7 @@ satellite-dish:
   voted: true
 save:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.2
   label: Save
@@ -15924,7 +15924,7 @@ screwdriver:
   voted: true
 scribd:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Scribd
   search:
@@ -15967,7 +15967,7 @@ sd-card:
   voted: true
 search:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Search
   search:
@@ -16017,7 +16017,7 @@ search-location:
   voted: false
 search-minus:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.13
   label: Search Minus
@@ -16034,7 +16034,7 @@ search-minus:
   voted: false
 search-plus:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Search Plus
   search:
@@ -16086,7 +16086,7 @@ sellcast:
   voted: false
 sellsy:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Sellsy
   search:
@@ -16097,7 +16097,7 @@ sellsy:
   voted: false
 server:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Server
   search:
@@ -16139,7 +16139,7 @@ shapes:
   voted: false
 share:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Share
   search:
@@ -16154,7 +16154,7 @@ share:
   voted: false
 share-alt:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Alternate Share
   search:
@@ -16169,7 +16169,7 @@ share-alt:
   voted: false
 share-alt-square:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Alternate Share Square
   search:
@@ -16184,7 +16184,7 @@ share-alt-square:
   voted: false
 share-square:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Share Square
   search:
@@ -16200,7 +16200,7 @@ share-square:
   voted: false
 shekel-sign:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Shekel Sign
   search:
@@ -16245,7 +16245,7 @@ shield-virus:
   voted: false
 ship:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.10.2
     - 5.11.0
@@ -16278,7 +16278,7 @@ shipping-fast:
   voted: false
 shirtsinbulk:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.7.0
   label: Shirts in Bulk
@@ -16314,7 +16314,7 @@ shopify:
   voted: false
 shopping-bag:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Shopping Bag
   search:
@@ -16330,7 +16330,7 @@ shopping-bag:
   voted: false
 shopping-basket:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Shopping Basket
   search:
@@ -16346,7 +16346,7 @@ shopping-basket:
   voted: false
 shopping-cart:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: shopping-cart
   search:
@@ -16373,7 +16373,7 @@ shopware:
   voted: false
 shower:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.12.0
   label: Shower
@@ -16439,7 +16439,7 @@ sign-in-alt:
   voted: false
 sign-language:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.10.2
   label: Sign Language
@@ -16471,7 +16471,7 @@ sign-out-alt:
   voted: false
 signal:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.3.0
     - 5.10.1
@@ -16522,7 +16522,7 @@ sim-card:
   voted: true
 simplybuilt:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: SimplyBuilt
   search:
@@ -16559,7 +16559,7 @@ sistrix:
   voted: false
 sitemap:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.13
   label: Sitemap
@@ -16691,7 +16691,7 @@ skull-crossbones:
   voted: false
 skyatlas:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.0.3
   label: skyatlas
@@ -16703,7 +16703,7 @@ skyatlas:
   voted: false
 skype:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Skype
   search:
@@ -16714,7 +16714,7 @@ skype:
   voted: false
 slack:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.7.0
   label: Slack Logo
@@ -16749,7 +16749,7 @@ slash:
       - cancel
       - close
       - mute
-      - 'off'
+      - "off"
       - stop
       - x
   styles:
@@ -16775,7 +16775,7 @@ sleigh:
   unicode: f7cc
 sliders-h:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.0.11
   label: Horizontal Sliders
@@ -16791,7 +16791,7 @@ sliders-h:
   voted: false
 slideshare:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Slideshare
   search:
@@ -16802,7 +16802,7 @@ slideshare:
   voted: false
 smile:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.0.9
     - 5.1.0
@@ -16922,7 +16922,7 @@ sms:
   voted: true
 snapchat:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Snapchat
   search:
@@ -16933,7 +16933,7 @@ snapchat:
   voted: false
 snapchat-ghost:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Snapchat Ghost
   search:
@@ -16944,7 +16944,7 @@ snapchat-ghost:
   voted: false
 snapchat-square:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Snapchat Square
   search:
@@ -16969,7 +16969,7 @@ snowboarding:
   unicode: f7ce
 snowflake:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.5.0
   label: Snowflake
@@ -17059,7 +17059,7 @@ solar-panel:
   voted: false
 sort:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.2
   label: Sort
@@ -17073,7 +17073,7 @@ sort:
   voted: false
 sort-alpha-down:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.9.0
   label: Sort Alphabetical Down
@@ -17105,7 +17105,7 @@ sort-alpha-down-alt:
   voted: false
 sort-alpha-up:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.9.0
   label: Sort Alphabetical Up
@@ -17137,7 +17137,7 @@ sort-alpha-up-alt:
   voted: false
 sort-amount-down:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.9.0
   label: Sort Amount Down
@@ -17168,7 +17168,7 @@ sort-amount-down-alt:
   voted: false
 sort-amount-up:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.9.0
   label: Sort Amount Up
@@ -17198,7 +17198,7 @@ sort-amount-up-alt:
   voted: false
 sort-down:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -17216,7 +17216,7 @@ sort-down:
   voted: false
 sort-numeric-down:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.9.0
   label: Sort Numeric Down
@@ -17248,7 +17248,7 @@ sort-numeric-down-alt:
   voted: false
 sort-numeric-up:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.9.0
   label: Sort Numeric Up
@@ -17280,7 +17280,7 @@ sort-numeric-up-alt:
   voted: false
 sort-up:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -17298,7 +17298,7 @@ sort-up:
   voted: false
 soundcloud:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: SoundCloud
   search:
@@ -17335,7 +17335,7 @@ spa:
   voted: false
 space-shuttle:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.10.2
   label: Space Shuttle
@@ -17405,7 +17405,7 @@ spider:
   voted: true
 spinner:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.10.2
   label: Spinner
@@ -17435,7 +17435,7 @@ splotch:
   voted: false
 spotify:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Spotify
   search:
@@ -17461,7 +17461,7 @@ spray-can:
   voted: false
 square:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.10.1
     - 5.10.2
@@ -17516,7 +17516,7 @@ squarespace:
   voted: true
 stack-exchange:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
     - 5.0.3
   label: Stack Exchange
@@ -17528,7 +17528,7 @@ stack-exchange:
   voted: false
 stack-overflow:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Stack Overflow
   search:
@@ -17564,7 +17564,7 @@ stamp:
   voted: false
 star:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: Star
@@ -17597,7 +17597,7 @@ star-and-crescent:
   voted: false
 star-half:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: star-half
   search:
@@ -17673,7 +17673,7 @@ staylinked:
   voted: false
 steam:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Steam
   search:
@@ -17684,7 +17684,7 @@ steam:
   voted: false
 steam-square:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Steam Square
   search:
@@ -17705,7 +17705,7 @@ steam-symbol:
   voted: false
 step-backward:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
     - 5.11.0
@@ -17724,7 +17724,7 @@ step-backward:
   voted: false
 step-forward:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
     - 5.11.0
@@ -17741,7 +17741,7 @@ step-forward:
   voted: false
 stethoscope:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.0.7
   label: Stethoscope
@@ -17773,7 +17773,7 @@ sticker-mule:
   voted: false
 sticky-note:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.10.2
   label: Sticky Note
@@ -17791,7 +17791,7 @@ sticky-note:
   voted: false
 stop:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: stop
@@ -17806,7 +17806,7 @@ stop:
   voted: false
 stop-circle:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: Stop Circle
   search:
@@ -17943,7 +17943,7 @@ stream:
   voted: false
 street-view:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.2.0
   label: Street View
@@ -17959,7 +17959,7 @@ street-view:
   voted: false
 strikethrough:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.9.0
   label: Strikethrough
@@ -18024,7 +18024,7 @@ studiovinari:
   voted: false
 stumbleupon:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: StumbleUpon Logo
   search:
@@ -18035,7 +18035,7 @@ stumbleupon:
   voted: false
 stumbleupon-circle:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: StumbleUpon Circle
   search:
@@ -18046,7 +18046,7 @@ stumbleupon-circle:
   voted: false
 subscript:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.9.0
     - 5.10.2
@@ -18064,7 +18064,7 @@ subscript:
   voted: false
 subway:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Subway
   search:
@@ -18080,7 +18080,7 @@ subway:
   voted: false
 suitcase:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
     - 5.0.9
   label: Suitcase
@@ -18115,7 +18115,7 @@ suitcase-rolling:
   voted: false
 sun:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.5.0
   label: Sun
@@ -18136,7 +18136,7 @@ sun:
   voted: false
 superpowers:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Superpowers
   search:
@@ -18147,7 +18147,7 @@ superpowers:
   voted: false
 superscript:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
     - 5.9.0
     - 5.10.2
@@ -18288,7 +18288,7 @@ synagogue:
   voted: false
 sync:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.8.0
   label: Sync
@@ -18335,7 +18335,7 @@ syringe:
   voted: false
 table:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: table
   search:
@@ -18362,7 +18362,7 @@ table-tennis:
   voted: false
 tablet:
   changes:
-    - '3'
+    - "3"
     - 5.0.0
   label: tablet
   search:
@@ -18423,7 +18423,7 @@ tachometer-alt:
   voted: false
 tag:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: tag
   search:
@@ -18438,7 +18438,7 @@ tag:
   voted: false
 tags:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: tags
@@ -18467,7 +18467,7 @@ tape:
   voted: false
 tasks:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.9.0
   label: Tasks
@@ -18487,7 +18487,7 @@ tasks:
   voted: false
 taxi:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.1.0
   label: Taxi
@@ -18554,7 +18554,7 @@ teeth-open:
   voted: false
 telegram:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Telegram
   search:
@@ -18607,7 +18607,7 @@ temperature-low:
   voted: false
 tencent-weibo:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Tencent Weibo
   search:
@@ -18632,7 +18632,7 @@ tenge:
   voted: true
 terminal:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Terminal
   search:
@@ -18648,7 +18648,7 @@ terminal:
   voted: false
 text-height:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
     - 5.10.2
@@ -18666,7 +18666,7 @@ text-height:
   voted: false
 text-width:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.9.0
     - 5.10.2
@@ -18684,7 +18684,7 @@ text-width:
   voted: false
 th:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.7.0
   label: th
@@ -18700,7 +18700,7 @@ th:
   voted: false
 th-large:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: th-large
   search:
@@ -18715,7 +18715,7 @@ th-large:
   voted: false
 th-list:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: th-list
   search:
@@ -18771,7 +18771,7 @@ themeco:
   voted: false
 themeisle:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: ThemeIsle
   search:
@@ -18796,7 +18796,7 @@ thermometer:
   voted: false
 thermometer-empty:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Thermometer Empty
   search:
@@ -18811,7 +18811,7 @@ thermometer-empty:
   voted: false
 thermometer-full:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Thermometer Full
   search:
@@ -18827,7 +18827,7 @@ thermometer-full:
   voted: false
 thermometer-half:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Thermometer 1/2 Full
   search:
@@ -18841,7 +18841,7 @@ thermometer-half:
   voted: false
 thermometer-quarter:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Thermometer 1/4 Full
   search:
@@ -18855,7 +18855,7 @@ thermometer-quarter:
   voted: false
 thermometer-three-quarters:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Thermometer 3/4 Full
   search:
@@ -18880,7 +18880,7 @@ think-peaks:
   voted: false
 thumbs-down:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.10.2
   label: thumbs-down
@@ -18899,7 +18899,7 @@ thumbs-down:
   voted: false
 thumbs-up:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.10.2
   label: thumbs-up
@@ -18915,7 +18915,7 @@ thumbs-up:
       - social
       - success
       - thumbs-o-up
-      - 'yes'
+      - "yes"
       - you got it dude
   styles:
     - solid
@@ -18924,7 +18924,7 @@ thumbs-up:
   voted: false
 thumbtack:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.10.2
   label: Thumbtack
@@ -18966,7 +18966,7 @@ tiktok:
   voted: true
 times:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.13
     - 5.11.0
@@ -18991,7 +18991,7 @@ times:
   voted: false
 times-circle:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Times Circle
   search:
@@ -19013,7 +19013,7 @@ times-circle:
   voted: false
 tint:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.1.0
   label: tint
@@ -19063,7 +19063,7 @@ tired:
   voted: false
 toggle-off:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Toggle Off
   search:
@@ -19075,7 +19075,7 @@ toggle-off:
   voted: false
 toggle-on:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
   label: Toggle On
   search:
@@ -19254,7 +19254,7 @@ trade-federation:
   voted: false
 trademark:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Trademark
   search:
@@ -19296,7 +19296,7 @@ trailer:
   voted: true
 train:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Train
   search:
@@ -19326,7 +19326,7 @@ tram:
   unicode: f7da
 transgender:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Transgender
   search:
@@ -19338,7 +19338,7 @@ transgender:
   voted: false
 transgender-alt:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.11.0
   label: Alternate Transgender
@@ -19351,7 +19351,7 @@ transgender-alt:
   voted: false
 trash:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.7.0
     - 5.10.2
@@ -19416,7 +19416,7 @@ trash-restore-alt:
   voted: true
 tree:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Tree
   search:
@@ -19434,7 +19434,7 @@ tree:
   voted: false
 trello:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
     - 5.6.0
   label: Trello
@@ -19447,7 +19447,7 @@ trello:
   voted: false
 tripadvisor:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.13.1
   label: TripAdvisor
@@ -19459,7 +19459,7 @@ tripadvisor:
   voted: false
 trophy:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.11.0
   label: trophy
@@ -19476,7 +19476,7 @@ trophy:
   voted: false
 truck:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.7
   label: truck
@@ -19563,7 +19563,7 @@ tshirt:
   voted: true
 tty:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.7.0
   label: TTY
@@ -19580,7 +19580,7 @@ tty:
   voted: false
 tumblr:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Tumblr
   search:
@@ -19591,7 +19591,7 @@ tumblr:
   voted: false
 tumblr-square:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Tumblr Square
   search:
@@ -19602,7 +19602,7 @@ tumblr-square:
   voted: false
 tv:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
     - 5.11.0
   label: Television
@@ -19618,7 +19618,7 @@ tv:
   voted: false
 twitch:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.12.0
   label: Twitch
@@ -19630,7 +19630,7 @@ twitch:
   voted: false
 twitter:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Twitter
   search:
@@ -19643,7 +19643,7 @@ twitter:
   voted: false
 twitter-square:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Twitter Square
   search:
@@ -19709,7 +19709,7 @@ umbraco:
   unicode: f8e8
 umbrella:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Umbrella
   search:
@@ -19740,7 +19740,7 @@ umbrella-beach:
   voted: false
 underline:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.9.0
   label: Underline
@@ -19757,7 +19757,7 @@ underline:
   voted: false
 undo:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: Undo
   search:
@@ -19811,7 +19811,7 @@ unity:
   voted: true
 universal-access:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.10.2
   label: Universal Access
@@ -19828,7 +19828,7 @@ universal-access:
   voted: false
 university:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.0.3
     - 5.11.0
@@ -19847,7 +19847,7 @@ university:
   voted: false
 unlink:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: unlink
   search:
@@ -19862,7 +19862,7 @@ unlink:
   voted: false
 unlock:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
   label: unlock
   search:
@@ -19878,7 +19878,7 @@ unlock:
   voted: false
 unlock-alt:
   changes:
-    - '3.1'
+    - "3.1"
     - 5.0.0
   label: Alternate Unlock
   search:
@@ -19914,7 +19914,7 @@ untappd:
   voted: false
 upload:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
   label: Upload
   search:
@@ -19941,7 +19941,7 @@ ups:
   unicode: f7e0
 usb:
   changes:
-    - '4.5'
+    - "4.5"
     - 5.0.0
   label: USB
   search:
@@ -19952,7 +19952,7 @@ usb:
   voted: false
 user:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.3
     - 5.0.11
@@ -20039,7 +20039,7 @@ user-check:
   voted: false
 user-circle:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.0.3
     - 5.0.11
@@ -20170,7 +20170,7 @@ user-lock:
   voted: false
 user-md:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.3
     - 5.0.7
@@ -20236,7 +20236,7 @@ user-nurse:
   voted: false
 user-plus:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.0.3
     - 5.0.11
@@ -20255,7 +20255,7 @@ user-plus:
   voted: false
 user-secret:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.0.3
     - 5.0.11
@@ -20336,7 +20336,7 @@ user-tie:
   voted: false
 user-times:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.0.3
     - 5.0.11
@@ -20353,7 +20353,7 @@ user-times:
   voted: false
 users:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.3
     - 5.0.11
@@ -20490,7 +20490,7 @@ vector-square:
   voted: false
 venus:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
     - 5.11.0
     - 5.11.1
@@ -20504,7 +20504,7 @@ venus:
   voted: false
 venus-double:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Venus Double
   search:
@@ -20516,7 +20516,7 @@ venus-double:
   voted: false
 venus-mars:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Venus Mars
   search:
@@ -20528,7 +20528,7 @@ venus-mars:
   voted: false
 viacoin:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: Viacoin
   search:
@@ -20539,7 +20539,7 @@ viacoin:
   voted: false
 viadeo:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: Video
   search:
@@ -20550,7 +20550,7 @@ viadeo:
   voted: false
 viadeo-square:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.7.0
   label: Video Square
@@ -20605,7 +20605,7 @@ viber:
   voted: false
 video:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.0.9
   label: Video
@@ -20663,7 +20663,7 @@ vimeo:
   voted: false
 vimeo-square:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
   label: Vimeo Square
   search:
@@ -20674,7 +20674,7 @@ vimeo-square:
   voted: false
 vimeo-v:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Vimeo
   search:
@@ -20686,7 +20686,7 @@ vimeo-v:
   voted: false
 vine:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: Vine
   search:
@@ -20749,7 +20749,7 @@ viruses:
   voted: false
 vk:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: VK
   search:
@@ -20798,7 +20798,7 @@ volleyball-ball:
   voted: false
 volume-down:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.3.0
   label: Volume Down
@@ -20831,7 +20831,7 @@ volume-mute:
   voted: true
 volume-off:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.3.0
     - 5.8.0
@@ -20851,7 +20851,7 @@ volume-off:
   voted: false
 volume-up:
   changes:
-    - '1'
+    - "1"
     - 5.0.0
     - 5.3.0
   label: Volume Up
@@ -20878,7 +20878,7 @@ vote-yea:
       - election
       - politics
       - positive
-      - 'yes'
+      - "yes"
   styles:
     - solid
   unicode: f772
@@ -21002,7 +21002,7 @@ weebly:
   voted: true
 weibo:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Weibo
   search:
@@ -21040,7 +21040,7 @@ weight-hanging:
   voted: false
 weixin:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.0.3
   label: Weixin (WeChat)
@@ -21052,7 +21052,7 @@ weixin:
   voted: false
 whatsapp:
   changes:
-    - '4.3'
+    - "4.3"
     - 5.0.0
   label: What's App
   search:
@@ -21073,7 +21073,7 @@ whatsapp-square:
   voted: false
 wheelchair:
   changes:
-    - '4'
+    - "4"
     - 5.0.0
     - 5.10.2
   label: Wheelchair
@@ -21098,7 +21098,7 @@ whmcs:
   voted: false
 wifi:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.3.0
     - 5.10.1
@@ -21117,7 +21117,7 @@ wifi:
   voted: false
 wikipedia-w:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Wikipedia W
   search:
@@ -21145,7 +21145,7 @@ wind:
   voted: false
 window-close:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Window Close
   search:
@@ -21161,7 +21161,7 @@ window-close:
   voted: false
 window-maximize:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Window Maximize
   search:
@@ -21177,7 +21177,7 @@ window-maximize:
   voted: false
 window-minimize:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
     - 5.10.1
   label: Window Minimize
@@ -21194,7 +21194,7 @@ window-minimize:
   voted: false
 window-restore:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: Window Restore
   search:
@@ -21209,7 +21209,7 @@ window-restore:
   voted: false
 windows:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Windows
   search:
@@ -21320,7 +21320,7 @@ wolf-pack-battalion:
   voted: false
 won-sign:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Won Sign
   search:
@@ -21334,7 +21334,7 @@ won-sign:
   voted: false
 wordpress:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
   label: WordPress Logo
   search:
@@ -21355,7 +21355,7 @@ wordpress-simple:
   voted: false
 wpbeginner:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: WPBeginner
   search:
@@ -21366,7 +21366,7 @@ wpbeginner:
   voted: false
 wpexplorer:
   changes:
-    - '4.7'
+    - "4.7"
     - 5.0.0
   label: WPExplorer
   search:
@@ -21377,7 +21377,7 @@ wpexplorer:
   voted: false
 wpforms:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
   label: WPForms
   search:
@@ -21399,7 +21399,7 @@ wpressr:
   voted: false
 wrench:
   changes:
-    - '2'
+    - "2"
     - 5.0.0
     - 5.0.13
   label: Wrench
@@ -21445,7 +21445,7 @@ xbox:
   voted: false
 xing:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Xing
   search:
@@ -21456,7 +21456,7 @@ xing:
   voted: false
 xing-square:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Xing Square
   search:
@@ -21467,7 +21467,7 @@ xing-square:
   voted: false
 y-combinator:
   changes:
-    - '4.4'
+    - "4.4"
     - 5.0.0
   label: Y Combinator
   search:
@@ -21478,7 +21478,7 @@ y-combinator:
   voted: false
 yahoo:
   changes:
-    - '4.1'
+    - "4.1"
     - 5.0.0
     - 5.0.3
     - 5.13.1
@@ -21530,7 +21530,7 @@ yarn:
   voted: true
 yelp:
   changes:
-    - '4.2'
+    - "4.2"
     - 5.0.0
     - 5.7.0
     - 5.8.0
@@ -21543,7 +21543,7 @@ yelp:
   voted: false
 yen-sign:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: Yen Sign
   search:
@@ -21573,7 +21573,7 @@ yin-yang:
   voted: false
 yoast:
   changes:
-    - '4.6'
+    - "4.6"
     - 5.0.0
     - 5.0.3
   label: Yoast
@@ -21585,7 +21585,7 @@ yoast:
   voted: false
 youtube:
   changes:
-    - '3.2'
+    - "3.2"
     - 5.0.0
   label: YouTube
   search:

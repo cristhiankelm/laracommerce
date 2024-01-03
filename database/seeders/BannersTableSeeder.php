@@ -2,7 +2,6 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
@@ -20,7 +19,7 @@ class BannersTableSeeder extends Seeder
                 'slug' => 'lorem-ipsum-is',
                 'photo' => '/storage/photos/1/Banner/banner-01.jpg',
                 'description' => '<h2><span style="font-weight: bold; color: rgb(99, 99, 99);">Up to 10%</span></h2>',
-                'status' => 'active'
+                'status' => 'active',
             ],
             [
                 'id' => 2,
@@ -28,7 +27,7 @@ class BannersTableSeeder extends Seeder
                 'slug' => 'lorem-ipsum',
                 'photo' => '/storage/photos/1/Banner/banner-07.jpg',
                 'description' => '<p>Up to 90%</p>',
-                'status' => 'active'
+                'status' => 'active',
             ],
             [
                 'id' => 3,
@@ -36,7 +35,7 @@ class BannersTableSeeder extends Seeder
                 'slug' => 'banner',
                 'photo' => '/storage/photos/1/Banner/banner-06.jpg',
                 'description' => '<h2><span style="color: rgb(156, 0, 255); font-size: 2rem; font-weight: bold;">Up to 40%</span><br></h2><h2><span style="color: rgb(156, 0, 255);"></span></h2>',
-                'status' => 'active'
+                'status' => 'active',
             ],
         ]);
     }
