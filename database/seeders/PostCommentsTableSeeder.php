@@ -2,7 +2,6 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
@@ -20,8 +19,8 @@ class PostCommentsTableSeeder extends Seeder
                 'post_id' => 2,
                 'comment' => 'Testing comment edited',
                 'status' => 'active',
-                'replied_comment' => NULL,
-                'parent_id' => NULL,
+                'replied_comment' => null,
+                'parent_id' => null,
             ],
             [
                 'id' => 2,
@@ -29,7 +28,7 @@ class PostCommentsTableSeeder extends Seeder
                 'post_id' => 2,
                 'comment' => 'testing 2',
                 'status' => 'active',
-                'replied_comment' => NULL,
+                'replied_comment' => null,
                 'parent_id' => 1,
             ],
             [
@@ -38,7 +37,7 @@ class PostCommentsTableSeeder extends Seeder
                 'post_id' => 2,
                 'comment' => 'That\'s cool',
                 'status' => 'active',
-                'replied_comment' => NULL,
+                'replied_comment' => null,
                 'parent_id' => 2,
             ],
             [
@@ -47,8 +46,8 @@ class PostCommentsTableSeeder extends Seeder
                 'post_id' => 2,
                 'comment' => 'nice',
                 'status' => 'active',
-                'replied_comment' => NULL,
-                'parent_id' => NULL,
+                'replied_comment' => null,
+                'parent_id' => null,
             ],
             [
                 'id' => 5,
@@ -56,8 +55,8 @@ class PostCommentsTableSeeder extends Seeder
                 'post_id' => 5,
                 'comment' => 'nice blog',
                 'status' => 'active',
-                'replied_comment' => NULL,
-                'parent_id' => NULL,
+                'replied_comment' => null,
+                'parent_id' => null,
             ],
             [
                 'id' => 6,
@@ -65,8 +64,8 @@ class PostCommentsTableSeeder extends Seeder
                 'post_id' => 3,
                 'comment' => 'nice',
                 'status' => 'active',
-                'replied_comment' => NULL,
-                'parent_id' => NULL,
+                'replied_comment' => null,
+                'parent_id' => null,
             ],
             [
                 'id' => 7,
@@ -74,7 +73,7 @@ class PostCommentsTableSeeder extends Seeder
                 'post_id' => 3,
                 'comment' => 'really',
                 'status' => 'active',
-                'replied_comment' => NULL,
+                'replied_comment' => null,
                 'parent_id' => 6,
             ],
         ]);

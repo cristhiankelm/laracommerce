@@ -3,7 +3,6 @@
 namespace Database\Seeders;
 
 use Carbon\Carbon;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
@@ -70,7 +69,7 @@ class ProductsTableSeeder extends Seeder
                 'discount' => 5.00,
                 'is_featured' => 0,
                 'cat_id' => 2,
-                'child_cat_id' => NULL,
+                'child_cat_id' => null,
                 'brand_id' => 2,
                 'created_at' => '2020-08-14 05:57:48',
                 'updated_at' => '2020-08-14 05:57:48',
@@ -90,7 +89,7 @@ class ProductsTableSeeder extends Seeder
                 'discount' => 50.00,
                 'is_featured' => 0,
                 'cat_id' => 2,
-                'child_cat_id' => NULL,
+                'child_cat_id' => null,
                 'brand_id' => 1,
                 'created_at' => Carbon::parse('2020-08-14 06:04:13'),
                 'updated_at' => Carbon::parse('2020-08-14 06:04:13'),
@@ -110,7 +109,7 @@ class ProductsTableSeeder extends Seeder
                 'discount' => 10.00,
                 'is_featured' => 0,
                 'cat_id' => 3,
-                'child_cat_id' => NULL,
+                'child_cat_id' => null,
                 'brand_id' => 3,
                 'created_at' => Carbon::parse('2020-08-14 06:10:52'),
                 'updated_at' => Carbon::parse('2020-08-14 09:37:36'),
@@ -130,7 +129,7 @@ class ProductsTableSeeder extends Seeder
                 'discount' => 3.00,
                 'is_featured' => 1,
                 'cat_id' => 3,
-                'child_cat_id' => NULL,
+                'child_cat_id' => null,
                 'brand_id' => 4,
                 'created_at' => Carbon::parse('2020-08-14 06:13:20'),
                 'updated_at' => Carbon::parse('2020-08-14 06:31:42'),
@@ -150,7 +149,7 @@ class ProductsTableSeeder extends Seeder
                 'discount' => 3.00,
                 'is_featured' => 0,
                 'cat_id' => 3,
-                'child_cat_id' => NULL,
+                'child_cat_id' => null,
                 'brand_id' => 1,
                 'created_at' => Carbon::parse('2021-08-14 09:13:20'),
                 'updated_at' => Carbon::parse('2021-08-15 03:31:42'),
@@ -170,7 +169,7 @@ class ProductsTableSeeder extends Seeder
                 'discount' => 0.00,
                 'is_featured' => 0,
                 'cat_id' => 3,
-                'child_cat_id' => NULL,
+                'child_cat_id' => null,
                 'brand_id' => 2,
                 'created_at' => Carbon::parse('2020-08-14 06:25:42'),
                 'updated_at' => Carbon::parse('2020-08-14 09:37:36'),
@@ -190,7 +189,7 @@ class ProductsTableSeeder extends Seeder
                 'discount' => 5.00,
                 'is_featured' => 0,
                 'cat_id' => 2,
-                'child_cat_id' => NULL,
+                'child_cat_id' => null,
                 'brand_id' => 3,
                 'created_at' => Carbon::parse('2022-08-14 05:25:42'),
                 'updated_at' => Carbon::parse('2022-08-18 02:37:36'),
@@ -214,7 +213,7 @@ class ProductsTableSeeder extends Seeder
                 'brand_id' => 3,
                 'created_at' => Carbon::parse('2020-08-17 20:50:07'),
                 'updated_at' => Carbon::parse('2020-08-17 20:50:07'),
-            ]
+            ],
         ]);
     }
 }

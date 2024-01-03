@@ -2,7 +2,6 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
@@ -101,7 +100,7 @@ class CartsTableSeeder extends Seeder
             [
                 'id' => 10,
                 'product_id' => 10,
-                'order_id' => NULL,
+                'order_id' => null,
                 'user_id' => 2,
                 'price' => 270.00,
                 'status' => 'new',
@@ -113,7 +112,7 @@ class CartsTableSeeder extends Seeder
             [
                 'id' => 11,
                 'product_id' => 9,
-                'order_id' => NULL,
+                'order_id' => null,
                 'user_id' => 2,
                 'price' => 190.00,
                 'status' => 'new',
